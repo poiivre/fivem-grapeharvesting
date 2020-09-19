@@ -1,3 +1,4 @@
+Discord Dev Scripts : https://discord.gg/5EDP4KH
 ### [EN]  [FR] 
 
 ###### Allow Players to | Permet au Joueurs de 
