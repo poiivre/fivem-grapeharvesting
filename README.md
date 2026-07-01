@@ -1,12 +1,10 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D44EGNM)
-
 ### [EN]  [FR] 
 
 ###### Allow Players to | Permet au Joueurs de 
 - [x] Grape Harvesting as a Spare-Time | Vendanges comme loisir
 
 # [EN] Grape Harvesting Script for FiveM [ ESX ]
-Created by Selene Desna on August 21, 2020 for [ Holliday's RP ]
+Created on August 21, 2020 for [ Holliday's RP ]
 
 This Script need the server to have the items 'raisin' and 'jusraisin' in your database.
 If you need help to modify it, you can contact me on GitHub.
@@ -26,7 +24,7 @@ Notif9  = ' Grapes Juice sold for a Bank Check of '
 ```
 
 # [FR] Script de Vendanges pour FiveM [ ESX ]
-Creer par Selene Desna le 21 aout 2020 pour [ Holliday's RP ]
+Creer le 21 aout 2020 pour [ Holliday's RP ]
 
 Ce Script à besoin que votre serveur est les items 'raisin' et 'jusraisin' dans la base de donnée.
 Si vous avez besoin d'aide afin de le modifier contactez moi sur GitHub.
